@@ -195,10 +195,5 @@
       "<rootDir>/tests/jest.js",
       "jest-localstorage-mock"
     ]
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "npm run lint"
-    }
   }
 }
